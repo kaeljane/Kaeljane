@@ -2,15 +2,15 @@
   
 <h1 align="center">Hi, I'm Kaeljane 👋</h1>
 
-<p align="center">
+<h3 align="center">
   <em>Software Engineer and Mechanics Technician with a passion for solving complex problems.</em>
-</p>
+</h3>
 
-<p align="center">
+<h4 align="center">
   🧠 Currently focused on <strong>Competitive Programming</strong>. <br>
-  💻 Developing with C++, Python, and Javascript. <br>
+  💻 Developing with C++, Python and Javascript. <br>
   🎓 Always learning and exploring new technologies.
-</p>
+</h4>
 
 <hr>
 
