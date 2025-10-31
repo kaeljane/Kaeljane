@@ -1,18 +1,31 @@
-<h1 align="center">Olá, eu sou a Kaeljane 👋</h1>
+<table width="100%">
+  <tr>
+    <td valign="top" width="50%">
+      <h1 align="left">Hi, I'm Kaeljane 👋</h1>
+      <p align="left">
+        <em>Software Engineer and Mechatronics Technician. Passionate about solving complex problems.</em>
+      </p>
 
-<p align="center">
-  <em>Engenheira de Software e Técnica em Mecatrônica. Apaixonada por resolver problemas complexos.</em>
-</p>
-
-<p align="center">
-  • 🧠 Atualmente focada em <strong>Programação Competitiva</strong>. <br>
-  • 💻 Desenvolvendo com C++, Python e Javascript. <br>
-  • 🎓 Sempre aprendendo e explorando novas tecnologias.
-</p>
+      <blockquote>
+        • 🧠 Currently focused on <strong>Competitive Programming</strong>. <br>
+        • 💻 Building projects with C++, Python, and Javascript. <br>
+        • 🎓 Always learning and exploring new technologies.
+      </blockquote>
+    </td>
+    
+    <td valign="top" width="50%">
+      <h3 align="center">📊 My GitHub Stats</h3>
+      <p align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=kaeljane&show_icons=true&locale=en&theme=tokyonight" alt="Kaeljane's GitHub Stats" width="48%"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaeljane&layout=compact&locale=en&theme=tokyonight" alt="Kaeljane's Top Languages" width="48%"/>
+      </p>
+    </td>
+  </tr>
+</table>
 
 <hr>
 
-<h3 align="center">🛠️ Minhas Ferramentas e Tecnologias</h3>
+<h3 align="center">🛠️ My Tech Stack</h3>
 
 <p align="center">
   <a href="https://cplusplus.com/" target="_blank" rel="noreferrer"> 
@@ -37,31 +50,34 @@
 
 <hr>
 
-<h3 align="center">📊 Minhas Estatísticas no GitHub</h3>
+<h3 align="center">🏆 My GitHub Trophies</h3>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kaeljane&show_icons=true&locale=pt-br&theme=tokyonight" alt="Estatísticas do GitHub de Kaeljane" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaeljane&layout=compact&locale=pt-br&theme=tokyonight" alt="Linguagens mais usadas por Kaeljane" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kaeljane&theme=tokyonight&hide_border=true&area=true" alt="Gráfico de Atividade de Kaeljane" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=kaeljane&theme=tokyonight&column=7" alt="Kaeljane's GitHub Trophies" />
 </p>
 
 <hr>
 
-<h3 align="center">📫 Vamos nos Conectar!</h3>
+<h3 align="center">📈 My Contribution Graph</h3>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kaeljane&theme=tokyonight&hide_border=true&area=true" alt="Kaeljane's Activity Graph" width="100%"/>
+</p>
+
+<hr>
+
+<h3 align="center">📫 Let's Connect!</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kaeljane/" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Meu LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="My LinkedIn"/>
   </a>
   
   <a href="mailto:kayyt0102@gmail.com" target="blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Meu Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="My Gmail"/>
   </a>
   
   <a href="https://www.instagram.com/ikaylanee/" target="blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Meu Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="My Instagram"/>
   </a>
 </p>
