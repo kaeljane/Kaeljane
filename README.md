@@ -18,7 +18,8 @@
   <a href="https://cplusplus.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
   </a>
-  &nbsp; <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+  &nbsp;
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a>
   &nbsp; 
@@ -40,44 +41,3 @@
 </p>
 
 <hr>
-
-<h3 align="center">📊 My GitHub Stats</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kaeljane&show_icons=true&locale=en&theme=tokyonight" alt="Kaeljane's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaeljane&layout=compact&locale=en&theme=tokyonight" alt="Kaeljane's Top Languages" />
-</p>
-
-<hr>
-
-<h3 align="center">🏆 My GitHub Trophies</h3>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kaeljane&theme=tokyonight&column=7" alt="Kaeljane's GitHub Trophies" />
-</p>
-
-<hr>
-
-<h3 align="center">📈 My Contribution Graph</h3>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kaeljane&theme=tokyonight&hide_border=true&area=true" alt="Kaeljane's Activity Graph" width="100%"/>
-</p>
-
-<hr>
-
-<h3 align="center">📫 Let's Connect!</h3>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/kaeljane/" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="My LinkedIn"/>
-  </a>
-  &nbsp; 
-  <a href="mailto:kayyt0102@gmail.com" target="blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="My Gmail"/>
-  </a>
-  &nbsp; 
-  <a href="https://www.instagram.com/ikaylanee/" target="blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="My Instagram"/>
-  </a>
-</p>
