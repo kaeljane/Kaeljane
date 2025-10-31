@@ -1,8 +1,3 @@
-## Hi there 👋
-![Estatísticas do GitHub de Kaeljane](https://github-readme-stats.vercel.app/api?username=kaeljane&show_icons=true&theme=dracula)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaeljane&layout=compact&theme=dracula)
-
 <h1 align="center">Olá, eu sou a Kaeljane 👋</h1>
 
 <p align="center">
