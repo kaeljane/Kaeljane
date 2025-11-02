@@ -65,7 +65,7 @@
   </a>
   &nbsp;&nbsp;
   
-  <a href="https://instagram.com/SEU-USUARIO-INSTAGRAM" target="blank">
+  <a href="https://instagram.com/ikaylanee" target="blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Meu Instagram"/>
   </a>
   &nbsp;&nbsp;
